@@ -1,0 +1,19 @@
+{
+    "name": "pb/hello-world",
+    "require": {
+        "phel-lang/phel-lang": "^0.1.0"
+    },
+    "extra": {
+      "phel": {
+        "loader": {
+          "hello-world\\": "src/"
+        }
+      }
+    },
+    "authors": [
+        {
+            "name": "philbaker",
+            "email": "phil@philbaker.me"
+        }
+    ]
+}

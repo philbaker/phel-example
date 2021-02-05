@@ -1,0 +1,4 @@
+# in src/boot.phel
+(ns hello-world\boot)
+
+(println "Hello, world!")
